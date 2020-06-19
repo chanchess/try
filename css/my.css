@@ -1,0 +1,56 @@
+@charset "utf-8";
+
+/* CSS Document */
+body {
+    background-color: #fff;
+        /*body color*/
+    padding: 0px;
+}
+head{
+    padding: 0px;
+}
+.contan{
+    padding: 0px;
+}
+.ima{
+    border-radius: 2px;
+    display: block;
+}
+/*
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    border-radius: 3px;
+}
+
+.navbar a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 3px;
+}
+.navbar a.active {
+    background-color: #4caf50;
+}
+
+.navbar a:hover {
+    background-color: gray;
+}
+*/
+.welcome {
+    text-align: center;
+    font-size: 30px;
+}
+
+/*footer*/
+.footer {
+    position: sticky;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    padding-bottom: 10px;
+    padding-top: 0px;
+}
